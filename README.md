@@ -1,2 +1,2 @@
 # COVID-19-exploration
- Visualization Project  
+ Exploratory and Visualization Project  
